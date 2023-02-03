@@ -88,7 +88,7 @@ struct ContentView: View {
                         Spacer()
                     }
                     HStack(){
-                        Image("SevenPic")
+                        Image("green-seven")
                             .padding()
                         Spacer()
                             
